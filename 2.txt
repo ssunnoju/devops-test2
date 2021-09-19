@@ -1,1 +1,1 @@
-nano 2.txt
+nano 2.txt - added addition details for clone file
